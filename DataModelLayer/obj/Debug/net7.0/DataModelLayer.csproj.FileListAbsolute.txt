@@ -1,0 +1,14 @@
+E:\ApnaStuff\dotnet\ProjectTemplate\DataModelLayer\bin\Debug\net7.0\DataModelLayer.deps.json
+E:\ApnaStuff\dotnet\ProjectTemplate\DataModelLayer\bin\Debug\net7.0\DataModelLayer.dll
+E:\ApnaStuff\dotnet\ProjectTemplate\DataModelLayer\bin\Debug\net7.0\DataModelLayer.pdb
+E:\ApnaStuff\dotnet\ProjectTemplate\DataModelLayer\obj\Debug\net7.0\DataModelLayer.csproj.AssemblyReference.cache
+E:\ApnaStuff\dotnet\ProjectTemplate\DataModelLayer\obj\Debug\net7.0\DataModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\ApnaStuff\dotnet\ProjectTemplate\DataModelLayer\obj\Debug\net7.0\DataModelLayer.AssemblyInfoInputs.cache
+E:\ApnaStuff\dotnet\ProjectTemplate\DataModelLayer\obj\Debug\net7.0\DataModelLayer.AssemblyInfo.cs
+E:\ApnaStuff\dotnet\ProjectTemplate\DataModelLayer\obj\Debug\net7.0\DataModelLayer.csproj.CoreCompileInputs.cache
+E:\ApnaStuff\dotnet\ProjectTemplate\DataModelLayer\obj\Debug\net7.0\DataModelLayer.dll
+E:\ApnaStuff\dotnet\ProjectTemplate\DataModelLayer\obj\Debug\net7.0\refint\DataModelLayer.dll
+E:\ApnaStuff\dotnet\ProjectTemplate\DataModelLayer\obj\Debug\net7.0\DataModelLayer.pdb
+E:\ApnaStuff\dotnet\ProjectTemplate\DataModelLayer\obj\Debug\net7.0\ref\DataModelLayer.dll
+E:\ApnaStuff\dotnet\ProjectTemplate\DataModelLayer\bin\Debug\net7.0\DataModelLayer.runtimeconfig.json
+E:\ApnaStuff\dotnet\ProjectTemplate\DataModelLayer\obj\Debug\net7.0\DataModelLayer.genruntimeconfig.cache

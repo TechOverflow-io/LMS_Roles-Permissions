@@ -1,0 +1,15 @@
+E:\ApnaStuff\dotnet\ProjectTemplate\ServiceLayer\bin\Debug\net7.0\ServiceLayer.deps.json
+E:\ApnaStuff\dotnet\ProjectTemplate\ServiceLayer\bin\Debug\net7.0\ServiceLayer.dll
+E:\ApnaStuff\dotnet\ProjectTemplate\ServiceLayer\bin\Debug\net7.0\ServiceLayer.pdb
+E:\ApnaStuff\dotnet\ProjectTemplate\ServiceLayer\obj\Debug\net7.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\ApnaStuff\dotnet\ProjectTemplate\ServiceLayer\obj\Debug\net7.0\ServiceLayer.AssemblyInfoInputs.cache
+E:\ApnaStuff\dotnet\ProjectTemplate\ServiceLayer\obj\Debug\net7.0\ServiceLayer.AssemblyInfo.cs
+E:\ApnaStuff\dotnet\ProjectTemplate\ServiceLayer\obj\Debug\net7.0\ServiceLayer.csproj.CoreCompileInputs.cache
+E:\ApnaStuff\dotnet\ProjectTemplate\ServiceLayer\obj\Debug\net7.0\ServiceLayer.dll
+E:\ApnaStuff\dotnet\ProjectTemplate\ServiceLayer\obj\Debug\net7.0\refint\ServiceLayer.dll
+E:\ApnaStuff\dotnet\ProjectTemplate\ServiceLayer\obj\Debug\net7.0\ServiceLayer.pdb
+E:\ApnaStuff\dotnet\ProjectTemplate\ServiceLayer\obj\Debug\net7.0\ref\ServiceLayer.dll
+E:\ApnaStuff\dotnet\ProjectTemplate\ServiceLayer\bin\Debug\net7.0\DataModelLayer.dll
+E:\ApnaStuff\dotnet\ProjectTemplate\ServiceLayer\bin\Debug\net7.0\DataModelLayer.pdb
+E:\ApnaStuff\dotnet\ProjectTemplate\ServiceLayer\obj\Debug\net7.0\ServiceLayer.csproj.AssemblyReference.cache
+E:\ApnaStuff\dotnet\ProjectTemplate\ServiceLayer\obj\Debug\net7.0\ServiceLayer.csproj.CopyComplete
